@@ -12,3 +12,6 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+## EXPO App 
+- [See app in action (note only on andriod)](https://expo.dev/@starkiller14/my-native-job-app?serviceType=classic&distribution=expo-go)
